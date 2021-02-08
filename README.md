@@ -52,3 +52,15 @@ Please execute below command. public folder contains all the required files to d
 ```
 npm run build
 ```
+
+### Screens
+
+![Home](https://github.com/gouthamipeddiraju/abnsearch/blob/main/public/Home.png?raw=true)
+
+
+![Suggestions](https://github.com/gouthamipeddiraju/abnsearch/blob/main/public/Suggestions.png?raw=true)
+
+
+![Results](https://github.com/gouthamipeddiraju/abnsearch/blob/main/public/Results.png?raw=true)
+
+
